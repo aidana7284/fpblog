@@ -13,14 +13,14 @@ The first is an OVERVIEW Entry - this is the Introduction, it explains the purpo
 There is _only one_ overview entry.
 
 *Context*
-The “Freedom Project” for SEP10 is all about _explain what the freedom project is_.
+The “Freedom Project” for SEP10 is all about making a website that includes information about the topic we chose.
 
 The purpose of this blog is to _explain what is it that you are using the blog for_
 
 *Content*
-For my project, I am making a website about _insert your topic_ using Github, HTML, CSS, and(tbd
+For my project, I am making a website about serial killers using Github, HTML, CSS, and(tbd
 
-This blog will document the process of independently studying _insert your topic_ and (tbd) and making the website.
+This blog will document the process of independently studying serial killers and (tbd) and making the website.
 
 ### Daily Entries
 
